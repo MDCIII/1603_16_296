@@ -1,0 +1,204 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<urn:mdciii:1603:16()>
+    a skos:ConceptScheme ;
+    rdfs:label "(1603:16)" .
+
+<urn:mdciii:1603:16:296()>
+    a skos:Collection ;
+    rdfs:label "(1603:16:296)" ;
+    skos:inScheme <urn:mdciii:1603:16()> ;
+    skos:member <urn:mdciii:1603:16:296:2()> .
+
+<urn:mdciii:1603:16:296:2()>
+    a skos:Collection ;
+    rdfs:label "(1603:16:296:2)" ;
+    skos:member <urn:mdciii:1603:16:296:2:102>, <urn:mdciii:1603:16:296:2:103>, <urn:mdciii:1603:16:296:2:104>, <urn:mdciii:1603:16:296:2:105>, <urn:mdciii:1603:16:296:2:106>, <urn:mdciii:1603:16:296:2:107>, <urn:mdciii:1603:16:296:2:108>, <urn:mdciii:1603:16:296:2:109>, <urn:mdciii:1603:16:296:2:110>, <urn:mdciii:1603:16:296:2:111>, <urn:mdciii:1603:16:296:2:112>, <urn:mdciii:1603:16:296:2:113>, <urn:mdciii:1603:16:296:2:114>, <urn:mdciii:1603:16:296:2:115>, <urn:mdciii:1603:16:296:2:116>, <urn:mdciii:1603:16:296:2:117>, <urn:mdciii:1603:16:296:2:118>, <urn:mdciii:1603:16:296:2:119>, <urn:mdciii:1603:16:296:2:124>, <urn:mdciii:1603:16:296:2:223>, <urn:mdciii:1603:16:296:2:230>, <urn:mdciii:1603:16:296:2:231>, <urn:mdciii:1603:16:296:2:232>, <urn:mdciii:1603:16:296:2:233>, <urn:mdciii:1603:16:296:2:234>, <urn:mdciii:1603:16:296:2:235>, <urn:mdciii:1603:16:296:2:236>, <urn:mdciii:1603:16:296:2:320>, <urn:mdciii:1603:16:296:2:321>, <urn:mdciii:1603:16:296:2:322>, <urn:mdciii:1603:16:296:2:325>, <urn:mdciii:1603:16:296:2:326>, <urn:mdciii:1603:16:296:2:327>, <urn:mdciii:1603:16:296:2:328>, <urn:mdciii:1603:16:296:2:329> .
+
+<urn:mdciii:1603:16:296:2(1)>
+    a owl:Ontology .
+
+<urn:mdciii:1603:16:296:2:101>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:101" ;
+    skos:prefLabel "Banaba"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:102>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:102" ;
+    skos:prefLabel "Makin"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:103>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:103" ;
+    skos:prefLabel "Butaritari"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:104>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:104" ;
+    skos:prefLabel "Marakei"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:105>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:105" ;
+    skos:prefLabel "Abaiang"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:106>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:106" ;
+    skos:prefLabel "North Tarawa"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:107>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:107" ;
+    skos:prefLabel "South Tarawa"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:108>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:108" ;
+    skos:prefLabel "Maiana"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:109>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:109" ;
+    skos:prefLabel "Abemama"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:110>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:110" ;
+    skos:prefLabel "Kuria"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:111>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:111" ;
+    skos:prefLabel "Aranuka"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:112>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:112" ;
+    skos:prefLabel "Nonouti"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:113>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:113" ;
+    skos:prefLabel "North Tabiteuea"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:114>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:114" ;
+    skos:prefLabel "South Tabiteuea"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:115>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:115" ;
+    skos:prefLabel "Beru"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:116>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:116" ;
+    skos:prefLabel "Nikunau"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:117>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:117" ;
+    skos:prefLabel "Onotoa"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:118>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:118" ;
+    skos:prefLabel "Tamana"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:119>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:119" ;
+    skos:prefLabel "Arorae"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:124>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:124" ;
+    skos:prefLabel "Betio"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:223>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:223" ;
+    skos:prefLabel "Kanton"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:230>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:230" ;
+    skos:prefLabel "Rawaki"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:231>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:231" ;
+    skos:prefLabel "Birnie"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:232>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:232" ;
+    skos:prefLabel "Mackean"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:233>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:233" ;
+    skos:prefLabel "Enderbury"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:234>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:234" ;
+    skos:prefLabel "Nikumaroro"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:235>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:235" ;
+    skos:prefLabel "Manra"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:236>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:236" ;
+    skos:prefLabel "Orona"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:320>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:320" ;
+    skos:prefLabel "Teraina"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:321>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:321" ;
+    skos:prefLabel "Tabuaeran"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:322>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:322" ;
+    skos:prefLabel "Kiritimati"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:325>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:325" ;
+    skos:prefLabel "Malden"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:326>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:326" ;
+    skos:prefLabel "Starburk"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:327>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:327" ;
+    skos:prefLabel "Millenium"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:328>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:328" ;
+    skos:prefLabel "Vostok"@eng-Latn .
+
+<urn:mdciii:1603:16:296:2:329>
+    a owl:Thing, skos:Concept ;
+    rdfs:label "1603:16:296:2:329" ;
+    skos:prefLabel "Flint"@eng-Latn .
+
