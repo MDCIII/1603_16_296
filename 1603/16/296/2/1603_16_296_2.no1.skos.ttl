@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:296()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:101" ;
     skos:prefLabel "Banaba"@eng-Latn ;
-    wdata:q7200235 "KI101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -75,7 +73,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:102" ;
     skos:prefLabel "Makin"@eng-Latn ;
-    wdata:q7200235 "KI102" ;
 .
 
 <urn:mdciii:1603:16:296:2:103>
@@ -84,7 +81,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:103" ;
     skos:prefLabel "Butaritari"@eng-Latn ;
-    wdata:q7200235 "KI103" ;
 .
 
 <urn:mdciii:1603:16:296:2:104>
@@ -93,7 +89,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:104" ;
     skos:prefLabel "Marakei"@eng-Latn ;
-    wdata:q7200235 "KI104" ;
 .
 
 <urn:mdciii:1603:16:296:2:105>
@@ -102,7 +97,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:105" ;
     skos:prefLabel "Abaiang"@eng-Latn ;
-    wdata:q7200235 "KI105" ;
 .
 
 <urn:mdciii:1603:16:296:2:106>
@@ -111,7 +105,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:106" ;
     skos:prefLabel "North Tarawa"@eng-Latn ;
-    wdata:q7200235 "KI106" ;
 .
 
 <urn:mdciii:1603:16:296:2:107>
@@ -120,7 +113,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:107" ;
     skos:prefLabel "South Tarawa"@eng-Latn ;
-    wdata:q7200235 "KI107" ;
 .
 
 <urn:mdciii:1603:16:296:2:108>
@@ -129,7 +121,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:108" ;
     skos:prefLabel "Maiana"@eng-Latn ;
-    wdata:q7200235 "KI108" ;
 .
 
 <urn:mdciii:1603:16:296:2:109>
@@ -138,7 +129,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:109" ;
     skos:prefLabel "Abemama"@eng-Latn ;
-    wdata:q7200235 "KI109" ;
 .
 
 <urn:mdciii:1603:16:296:2:110>
@@ -147,7 +137,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:110" ;
     skos:prefLabel "Kuria"@eng-Latn ;
-    wdata:q7200235 "KI110" ;
 .
 
 <urn:mdciii:1603:16:296:2:111>
@@ -156,7 +145,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:111" ;
     skos:prefLabel "Aranuka"@eng-Latn ;
-    wdata:q7200235 "KI111" ;
 .
 
 <urn:mdciii:1603:16:296:2:112>
@@ -165,7 +153,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:112" ;
     skos:prefLabel "Nonouti"@eng-Latn ;
-    wdata:q7200235 "KI112" ;
 .
 
 <urn:mdciii:1603:16:296:2:113>
@@ -174,7 +161,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:113" ;
     skos:prefLabel "North Tabiteuea"@eng-Latn ;
-    wdata:q7200235 "KI113" ;
 .
 
 <urn:mdciii:1603:16:296:2:114>
@@ -183,7 +169,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:114" ;
     skos:prefLabel "South Tabiteuea"@eng-Latn ;
-    wdata:q7200235 "KI114" ;
 .
 
 <urn:mdciii:1603:16:296:2:115>
@@ -192,7 +177,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:115" ;
     skos:prefLabel "Beru"@eng-Latn ;
-    wdata:q7200235 "KI115" ;
 .
 
 <urn:mdciii:1603:16:296:2:116>
@@ -201,7 +185,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:116" ;
     skos:prefLabel "Nikunau"@eng-Latn ;
-    wdata:q7200235 "KI116" ;
 .
 
 <urn:mdciii:1603:16:296:2:117>
@@ -210,7 +193,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:117" ;
     skos:prefLabel "Onotoa"@eng-Latn ;
-    wdata:q7200235 "KI117" ;
 .
 
 <urn:mdciii:1603:16:296:2:118>
@@ -219,7 +201,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:118" ;
     skos:prefLabel "Tamana"@eng-Latn ;
-    wdata:q7200235 "KI118" ;
 .
 
 <urn:mdciii:1603:16:296:2:119>
@@ -228,7 +209,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:119" ;
     skos:prefLabel "Arorae"@eng-Latn ;
-    wdata:q7200235 "KI119" ;
 .
 
 <urn:mdciii:1603:16:296:2:124>
@@ -237,7 +217,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:124" ;
     skos:prefLabel "Betio"@eng-Latn ;
-    wdata:q7200235 "KI124" ;
 .
 
 <urn:mdciii:1603:16:296:2:223>
@@ -246,7 +225,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:223" ;
     skos:prefLabel "Kanton"@eng-Latn ;
-    wdata:q7200235 "KI223" ;
 .
 
 <urn:mdciii:1603:16:296:2:230>
@@ -255,7 +233,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:230" ;
     skos:prefLabel "Rawaki"@eng-Latn ;
-    wdata:q7200235 "KI230" ;
 .
 
 <urn:mdciii:1603:16:296:2:231>
@@ -264,7 +241,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:231" ;
     skos:prefLabel "Birnie"@eng-Latn ;
-    wdata:q7200235 "KI231" ;
 .
 
 <urn:mdciii:1603:16:296:2:232>
@@ -273,7 +249,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:232" ;
     skos:prefLabel "Mackean"@eng-Latn ;
-    wdata:q7200235 "KI232" ;
 .
 
 <urn:mdciii:1603:16:296:2:233>
@@ -282,7 +257,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:233" ;
     skos:prefLabel "Enderbury"@eng-Latn ;
-    wdata:q7200235 "KI233" ;
 .
 
 <urn:mdciii:1603:16:296:2:234>
@@ -291,7 +265,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:234" ;
     skos:prefLabel "Nikumaroro"@eng-Latn ;
-    wdata:q7200235 "KI234" ;
 .
 
 <urn:mdciii:1603:16:296:2:235>
@@ -300,7 +273,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:235" ;
     skos:prefLabel "Manra"@eng-Latn ;
-    wdata:q7200235 "KI235" ;
 .
 
 <urn:mdciii:1603:16:296:2:236>
@@ -309,7 +281,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:236" ;
     skos:prefLabel "Orona"@eng-Latn ;
-    wdata:q7200235 "KI236" ;
 .
 
 <urn:mdciii:1603:16:296:2:320>
@@ -318,7 +289,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:320" ;
     skos:prefLabel "Teraina"@eng-Latn ;
-    wdata:q7200235 "KI320" ;
 .
 
 <urn:mdciii:1603:16:296:2:321>
@@ -327,7 +297,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:321" ;
     skos:prefLabel "Tabuaeran"@eng-Latn ;
-    wdata:q7200235 "KI321" ;
 .
 
 <urn:mdciii:1603:16:296:2:322>
@@ -336,7 +305,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:322" ;
     skos:prefLabel "Kiritimati"@eng-Latn ;
-    wdata:q7200235 "KI322" ;
 .
 
 <urn:mdciii:1603:16:296:2:325>
@@ -345,7 +313,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:325" ;
     skos:prefLabel "Malden"@eng-Latn ;
-    wdata:q7200235 "KI325" ;
 .
 
 <urn:mdciii:1603:16:296:2:326>
@@ -354,7 +321,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:326" ;
     skos:prefLabel "Starburk"@eng-Latn ;
-    wdata:q7200235 "KI326" ;
 .
 
 <urn:mdciii:1603:16:296:2:327>
@@ -363,7 +329,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:327" ;
     skos:prefLabel "Millenium"@eng-Latn ;
-    wdata:q7200235 "KI327" ;
 .
 
 <urn:mdciii:1603:16:296:2:328>
@@ -372,7 +337,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:328" ;
     skos:prefLabel "Vostok"@eng-Latn ;
-    wdata:q7200235 "KI328" ;
 .
 
 <urn:mdciii:1603:16:296:2:329>
@@ -381,6 +345,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:296:2:329" ;
     skos:prefLabel "Flint"@eng-Latn ;
-    wdata:q7200235 "KI329" ;
 .
 
